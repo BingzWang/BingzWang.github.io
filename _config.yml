@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bingzhe Wang"
-description              : "Ph.D. in Artificial Intelligence at Gaoling School of Artificial Intelligence, Renmin University of China. My research focuses on game theory and mechanism design, machine learning, and reinforcement learning."
+description              : "Ph.D. in Artificial Intelligence, focusing on game theory and mechanism design, machine learning, and reinforcement learning"
 repository               : "BingzWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bingzhe Wang"
   avatar           : "images/avatar.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Gaoling School of Artificial Intelligence, Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lOuChXsAAAAJ"
-  email            : "wbz2022@ruc.edu.cn"
+  email            : "bingzhe96@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "BingzWang"
   google_plus      :
   keybase          :
   instagram        :
