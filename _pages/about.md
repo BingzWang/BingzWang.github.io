@@ -21,8 +21,6 @@ I am Bingzhe Wang. I received my Ph.D. degree in Artificial Intelligence from Ga
 
 I hold both Bachelor’s and Master’s degrees in Mathematics from China University of Petroleum, Beijing. I have interned at Alibaba, Baidu and Huawei, and have published more than ten peer-reviewed papers in top conferences and journals.
 
-My Google Scholar profile: <a href='https://scholar.google.com/citations?user=lOuChXsAAAAJ'>https://scholar.google.com/citations?user=lOuChXsAAAAJ</a>
-
 My research interests include game theory & mechanism design, machine learning, reinforcement learning, and large language models.
 I have published more than ten academic papers, with all citation data tracked via my Google Scholar page:
 <a href='https://scholar.google.com/citations?user=lOuChXsAAAAJ'>google scholar homepage</a>
