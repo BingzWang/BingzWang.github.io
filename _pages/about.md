@@ -57,7 +57,7 @@ I have published more than ten academic papers, with all citation data tracked v
 # 💬 Invited Talks
 - *2024*, Presentation of paper *Near-optimal algorithm for supporting small and medium-sized enterprises in ad systems*, COCOON 2024
 - *2025*, Presentation of paper *Strategies for Non-myopic Users in EIP-1559*, TAMC 2025
-- *2026*, Presentation of paper *Autobidding Auctions with LLM-Powered Creatives*, ICML 2026
+- *2026*, Presentation of paper "Autobidding Auctions with LLM-Powered Creatives" at ICML 2026  \| [\[slides recording\]](https://recorder-v3.slideslive.com/?share=112404&s=960362db-74f0-4efd-81d8-49fe66bd7d65)
 - *2026*, Presentation of paper *EPMD: A Framework for LLM-Enhanced Ad Auctions*, KDD 2026
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
