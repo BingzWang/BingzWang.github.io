@@ -57,7 +57,7 @@ Yiming Ding, Qi Qi, **Bingzhe Wang**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SACO.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SACO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SACO: Sequence-Aware Constrained Optimization Framework for Coupon Distribution in E-commerce]
