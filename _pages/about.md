@@ -28,8 +28,7 @@ I have published more than ten academic papers, with all citation data tracked v
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.08*: &nbsp;🎉🎉 Completed my Ph.D. study at Renmin University of China.
 
 # 📝 Publications 
 
@@ -48,16 +47,21 @@ I have published more than ten academic papers, with all citation data tracked v
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06*, Ph.D. in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China
+- *2019.09 - 2022.06*, M.S. in Mathematics, College of Science, China University of Petroleum, Beijing
+- *2015.09 - 2019.06*, B.S. in Mathematics and Applied Mathematics, College of Science, China University of Petroleum, Beijing
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024*, Presentation of paper *Near-optimal algorithm for supporting small and medium-sized enterprises in ad systems*, COCOON 2024
+- *2025*, Presentation of paper *Strategies for Non-myopic Users in EIP-1559*, TAMC 2025
+- *2026*, Presentation of paper *Autobidding Auctions with LLM-Powered Creatives*, ICML 2026
+- *2026*, Presentation of paper *EPMD: A Framework for LLM-Enhanced Ad Auctions*, KDD 2026
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Alibaba, Research Intern
+- Baidu, Research Intern
+- Huawei, Research Intern
