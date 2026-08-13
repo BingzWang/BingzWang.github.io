@@ -33,27 +33,29 @@ I have published more than ten academic papers, with all citation data tracked v
 # 📝 Publications 
 
 ## 2026
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCSS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCSS 2026</div><img src='images/JCSS.png' alt="JCSS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Near-optimal algorithm for supporting small and medium-sized enterprises in ad systems]
+[Near-optimal algorithm for supporting small and medium-sized enterprises in ad systems](https://doi.org/10.1016/j.jcss.2026.103783)
 
 Weian Li, Qi Qi, **Bingzhe Wang**, Tao Xiao, Changyuan Yu
 
 *Journal of Computer and System Sciences, 159: 103783, 2026 (CCF B)*
 <span class='show_paper_citations' data=''></span>
+- Abstract: In this paper, we introduce an online decision model, effectively capturing the features of real-time support in online advertising. We target small and medium-sized enterprise (SME) advertisers, who lack opportunities for exposure, and consider how to provide additional support for them to acquire advertising slots. This paper investigates two settings, single slot and multiple slots. In both scenarios, our objective is to design online support algorithms that maximize the cumulative utility of SMEs across multiple rounds within the fixed support budget. Technically, we propose a dual-based online algorithm that contains deterministic rules for selecting support targets and allocating subsidies, achieving a competitive ratio of 1 − O(ε) for both settings within the random permutation model. Especially, in the single-slot setting, we propose tailored support policies for each advertiser.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCS 2026</div><img src='images/TCS.png' alt="TCS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Non-myopic Bidders in EIP-1559]
+[Non-myopic Bidders in EIP-1559](https://doi.org/10.1016/j.tcs.2026.116175)
 
 Yiming Ding, Qi Qi, **Bingzhe Wang**
 
 *Theoretical Computer Science, 1084: 116175, 2026 (CCF B)*
 <span class='show_paper_citations' data=''></span>
+- Abstract: This paper presents a rigorous analytical framework for strategic transaction submission in Ethereum's EIP-1559 fee market, focusing on non-myopic users who optimize costs over finite planning horizons. Departing from the standard assumption of myopic bidding, we formalize the dynamic decision-making process where agents face hybrid uncertainties arising from stochastic block intervals and deterministic fee adjustments. We model the system evolution as a semi-Markov process (sMP) and formulate the optimal bidding strategy as a finite-horizon optimal stopping problem. By establishing a structural equivalence between this stopping problem and a semi-Markov Decision Process (sMDP), we prove the existence of deterministic stationary optimal policies and characterize the value function as the minimal solution to a recursive optimality equation. Furthermore, we construct a computationally efficient value iteration algorithm to compute ε-optimal stopping times.
 </div>
 </div>
 
