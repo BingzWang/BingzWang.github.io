@@ -151,15 +151,16 @@ Zhen Zhang, Weian Li, Yahui Lei, **Bingzhe Wang**, Zhicheng Zhang, Qi Qi, Qiang 
 - [IC Mechanisms for Risk-Averse Advertisers in the Online Advertising System](https://arxiv.org/abs/2411.13162), Bingzhe Wang, Ruohan Qian, Yuejia Dou, Qi Qi, Bo Shen, Changyuan Li, Yixuan Zhang, Yixin Su, Xin Yuan, Wenqiang Liu, Bin Zou, Wen Yi, Zhi Guo, Shuanglong Li, Liu Lin, arXiv preprint abs/2411.13162, 2024
 
 ## 2021
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMC 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMC 2021</div><img src='images/QFOGDM.png' alt="QFOGDM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A quasi fractional order gradient descent method with adaptive stepsize and its application in system identification]
+[A quasi fractional order gradient descent method with adaptive stepsize and its application in system identification](https://doi.org/10.1016/j.amc.2020.125797)
 
 Jianjun Liu, Rui Zhai, Yuhan Liu, Wenliang Li, **Bingzhe Wang**, Liyuan Huang
 
 *Applied Mathematics and Computation, 393: 125797, 2021*
 <span class='show_paper_citations' data=''></span>
+- Abstract: In this paper, the fractional order gradient method (FOGM) is extended to the solution of high-dimensional function optimization problems. A quasi fractional order gradient descent method (QFOGDM) is proposed and then introduce an adaptive stepsize into QFOGDM. The theoretic analysis for convergence of QFOGDM is be done by three theorems. The numerical experiments for solving 15 unconstrained optimization benchmarks are compared to show its' better performance. Meanwhile, the proposed algorithm is utilized to identify the parameters in the linear discrete deterministic systems and achieves a better convergence rate and accuracy.
 </div>
 </div>
 
