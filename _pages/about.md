@@ -122,28 +122,29 @@ Yiming Ding, Qi Qi, **Bingzhe Wang**
 - [ADT4Coupons: An Innovative Framework for Sequential Coupon Distribution in E-commerce](https://arxiv.org/abs/2508.09198), Li Kong, Bingzhe Wang, Zhou Chen, Suhan Hu, Yuchao Ma, Qi Qi, Suoyuan Song, Bicheng Jin, arXiv preprint abs/2508.09198, 2025
 
 ## 2024
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COCOON 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COCOON 2024</div><img src='images/COCOON.png' alt="COCOON" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Near-Optimal Algorithm for Supporting Small and Medium-Sized Enterprises in Ad Systems]
+[Near-Optimal Algorithm for Supporting Small and Medium-Sized Enterprises in Ad Systems](https://link.springer.com/chapter/10.1007/978-981-96-1090-7_21)
 
 Weian Li, Qi Qi, **Bingzhe Wang**, Tao Xiao, Changyuan Yu
 
 *COCOON 2024, pp.252-263 (CCF B)*
 <span class='show_paper_citations' data=''></span>
+- Abstract: In this paper, we introduce an online decision model, effectively capturing the features of real-time support in online advertising. We target small and medium-sized enterprise (SME) advertisers, who lack opportunities for exposure, and consider how to provide additional support for them to acquire advertising slots. This paper investigates two settings, single slot and multiple slots. In both scenarios, our objective is to design online support algorithms that maximize the cumulative utility of SMEs across multiple rounds within the fixed support budget. Technically, we propose a dual-based online algorithm that contains deterministic rules for selecting targets and allocating subsidies, achieving a competitive ratio of 1 − O(√(log n / n)) for both settings. Especially, in the single-slot setting, we propose tailored support policies for each advertiser.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/JRegNet.png' alt="JRegNet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Joint Auction in the Online Advertising Market](https://doi.org/10.1145/3637528.3671746)
+[Joint Auction in the Online Advertising Market](https://dl.acm.org/doi/epdf/10.1145/3637528.3671746)
 
 Zhen Zhang, Weian Li, Yahui Lei, **Bingzhe Wang**, Zhicheng Zhang, Qi Qi, Qiang Liu, Xingxing Wang
 
 *KDD 2024, pp.4362-4373 (CCF A)*
 <span class='show_paper_citations' data='lOuChXsAAAAJ:u5HHmVD_uO8C'></span>
-- Abstract: Online advertising is a primary source of income for e-commerce platforms. In the current advertising pattern, the oriented targets are the online store owners who are willing to pay extra fees to enhance the position of their stores. On the other hand, brand suppliers are also desirable to advertise their products in stores to boost brand sales. However, the currently used advertising mode cannot satisfy the demand of both stores and brand suppliers simultaneously. To address this, we innovatively propose a joint advertising model termed ''Joint Auction'', allowing brand suppliers and stores to collaboratively bid for advertising slots, catering to both their needs. However, conventional advertising auction mechanisms are not suitable for this novel scenario. In this paper, we propose JRegNet, a neural network architecture for the optimal joint auction design, to generate mechanisms that can achieve the optimal revenue and guarantee (near-)dominant strategy incentive compatibility and individual rationality. Finally, multiple experiments are conducted on synthetic and real data to demonstrate that our proposed joint auction significantly improves platform's revenue compared to the known baselines.
+- Abstract: Online advertising is a primary source of income for e-commerce platforms. In the current advertising pattern, the oriented targets are the online store owners who are willing to pay extra fees to enhance the position of their stores. On the other hand, brand suppliers are also desirable to advertise their products in stores to boost brand sales. However, the currently used advertising mode cannot satisfy the demand of both stores and brand suppliers simultaneously. To address this, we innovatively propose a joint advertising model termed "Joint Auction", allowing brand suppliers and stores to collaboratively bid for advertising slots, catering to both their needs. However, conventional advertising auction mechanisms are not suitable for this novel scenario. In this paper, we propose JRegNet, a neural network architecture for the optimal joint auction design, to generate mechanisms that can achieve the optimal revenue and guarantee (near-)dominant strategy incentive compatibility and individual rationality. Finally, multiple experiments are conducted on synthetic and real data to demonstrate that our proposed joint auction significantly improves platform's revenue compared to the known baselines.
 </div>
 </div>
 
