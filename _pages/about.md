@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Bingzhe Wang. I received my Ph.D. degree in Artificial Intelligence from Gaoling School of Artificial Intelligence, Renmin University of China. My research focuses on game theory and mechanism design, machine learning, reinforcement learning, and large language models.
+I am Bingzhe Wang. I received my Ph.D. degree in Artificial Intelligence from Gaoling School of Artificial Intelligence, Renmin University of China. My research focuses on game theory, mechanism design, machine learning, reinforcement learning, and large language models.
 
 I hold both Bachelor’s and Master’s degrees in Mathematics from China University of Petroleum, Beijing. I have interned at Alibaba, Baidu and Huawei, and have published more than ten peer-reviewed papers in top conferences and journals.
 
