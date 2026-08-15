@@ -33,6 +33,45 @@ I have published more than ten academic papers, with all citation data tracked v
 # 📝 Publications 
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/EPMD.png' alt="EPMD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EPMD: A Framework for LLM-Enhanced Ad Auctions](https://dl.acm.org/doi/epdf/10.1145/3770855.3818144)
+
+**Bingzhe Wang**, Bowei Zhang, Jiarui Gong, Changyuan Yu, Qi Qi
+
+*KDD 2026 (CCF A)*
+<span class='show_paper_citations' data=''></span>
+- Abstract: The integration of Large Language Models (LLMs) to dynamically enhance ad creatives offers significant market value but presents a formidable mechanism design challenge. This interaction is characterized by a tri-level optimization problem where the platform, as a Stackelberg leader, must determine an optimal investment policy while anticipating the strategic responses of both advertisers and their budget-constrained auto-bidding agents. To address this, we theoretically deconstruct the strategic hierarchy and prove that creative enhancement can endogenously align advertiser incentives via the monotonicity of market outcomes relative to bid pacing multipliers. This insight allows us to collapse the intractable tri-level hierarchy into a more manageable bilevel optimization task. We then introduce the Equilibrium-Predictive Mechanism Design (EPMD) framework, which employs a novel dual-network architecture consisting of an Investment Policy Network (IPN) and an Equilibrium Prediction Network (EPN). This design enables the platform to learn optimal resource allocation and the market's equilibrium mapping simultaneously in an efficient, end-to-end manner. Empirical evaluations using real-world datasets and GPT-4o-based enhancement demonstrate that EPMD increases platform revenue by up to +1.11% while ensuring market stability and incentive alignment, providing the first tractable solution for this new class of generative advertising problems.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/DFP.png' alt="DFP" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging the Gap: Real-Time Cost Control for Autobidding](https://dl.acm.org/doi/epdf/10.1145/3770855.3818329)
+
+**Bingzhe Wang**, Bo Shen, Yuejia Dou, Qi Qi, Ruohan Qian, Changyuan Li, Xin Yuan, Bin Zou, Wen Yi, Zhi Guo, Shuanglong Li, Lin Liu, Yixuan Zhang, Yixin Su, Wenqiang Liu
+
+*KDD 2026 (CCF A)*
+<span class='show_paper_citations' data=''></span>
+- Abstract: In the modern autobidding paradigm, automated agents optimize bids to satisfy high-level advertiser constraints. However, a critical Realization Gap persists between the theoretical guarantee of Auto-bidding Incentive Compatibility (AIC) in expectation and the stochastic reality of ex-post outcomes. This misalignment, driven by delayed conversions and finite data, leads to frequent constraint violations and utility collapse for sparse advertisers. We formally prove an impossibility result: standard mechanisms that couple allocation with payment cannot guarantee realized cost compliance in finite-sample regimes. To resolve this, we introduce the Decoupled First-Price (DFP) mechanism. DFP preserves the efficient allocation rank of standard auctions but decouples the payment rule, dynamically modulating costs via a control parameter to satisfy constraints. We prove that DFP provides strict utility dominance over standard mechanisms for value-maximizing advertisers. To operationalize DFP, we formulate payment adjustment as a Markov Decision Process solved via Proximal Policy Optimization (PPO). Extensive evaluations on the large-scale industrial dataset demonstrate significant reductions in cost deviation. A live production deployment yielded a 2.8% revenue lift and a 1.1% improvement in advertiser retention, validating the commercial necessity of real-time cost control.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/TTSLPPO.png' alt="TTSLPPO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Autobidding Auctions with LLM-Powered Creatives](https://openreview.net/pdf?id=Hk8MqQNAAm)
+
+**Bingzhe Wang**, Bowei Zhang, Changyuan Yu, Qi Qi
+
+*ICML 2026 (CCF A)*
+<span class='show_paper_citations' data=''></span>
+- Abstract: The integration of Large Language Models (LLMs) into ad auctions for dynamic creative enhancement presents a paradigm shift, yet introduces significant computational costs disrupting traditional mechanism design. This paper provides a comprehensive game-theoretic and algorithmic framework for such LLM-augmented auctions. We model the system as a dynamic Stackelberg game where the platform (leader) strategically invests in creative enhancement to maximize net revenue, while autobidding agents (followers) respond to enhanced ad qualities under budget constraints. To endogenize inference costs, we propose the Platform-Investment Mechanism (PIM). We develop the Online Dual-Descent Bidding with Regularization (ODDB-R) algorithm for agents to learn optimal bidding strategies in this non-stationary environment. For the platform, we formulate the investment problem as a continuous control task and solve it using a Two-Timescale Stackelberg Learning with Proximal Policy Optimization (TTSL-PPO) algorithm, which provably converges to a Stackelberg Stationary Point. Extensive experiments on large-scale real-world datasets and state-of-the-art LLMs demonstrate that our framework significantly outperforms heuristic baselines in revenue, social welfare, and user engagement.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCSS 2026</div><img src='images/JCSS.png' alt="JCSS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
