@@ -33,7 +33,7 @@ I have published more than ten academic papers, with all citation data tracked v
 # 📝 Publications 
 
 ## 2026
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/EPMD.png' alt="EPMD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/EPMD.jpg' alt="EPMD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EPMD: A Framework for LLM-Enhanced Ad Auctions](https://dl.acm.org/doi/epdf/10.1145/3770855.3818144)
@@ -46,7 +46,7 @@ I have published more than ten academic papers, with all citation data tracked v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/DFP.png' alt="DFP" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/DFP.jpg' alt="DFP" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bridging the Gap: Real-Time Cost Control for Autobidding](https://dl.acm.org/doi/epdf/10.1145/3770855.3818329)
@@ -59,7 +59,7 @@ I have published more than ten academic papers, with all citation data tracked v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/TTSLPPO.png' alt="TTSLPPO" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/TTSLPPO.jpg' alt="TTSLPPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Autobidding Auctions with LLM-Powered Creatives](https://openreview.net/pdf?id=Hk8MqQNAAm)
